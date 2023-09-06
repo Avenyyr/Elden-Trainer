@@ -1,4 +1,4 @@
-✨ work in progress elden ring trainer, it's value editor in Python with Pymem and DearPygui
+✨ work in progress elden ring trainer, it's a value editor in Python with Pymem and DearPygui
 
 ❗for learning purposes only, don't use it online (you'll certainly get banned lol)
 
