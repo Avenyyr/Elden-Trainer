@@ -3,6 +3,7 @@
 ❗for learning purposes only, don't use it online (you'll certainly get banned lol)
 
 
-![Capture d'écran 2023-09-06 211543](https://github.com/Avenyyr/Elden-Trainer/assets/78681049/1d778b26-8b26-4c0c-af35-64e2df4599b9)
+![EldenTrainer-2](https://github.com/Avenyyr/Elden-Trainer/assets/78681049/99ecfd9e-f841-4cea-abfd-0c698d62fc21)
 
 tested in 1.09.1
+
