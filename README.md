@@ -3,7 +3,8 @@
 ❗for learning purposes only, don't use it online (you'll certainly get banned lol)
 
 
-![EldenTrainer-2](https://github.com/Avenyyr/Elden-Trainer/assets/78681049/99ecfd9e-f841-4cea-abfd-0c698d62fc21)
+![EldenTrainer](https://github.com/Avenyyr/Elden-Trainer/assets/78681049/33d91b79-7bfb-4c2a-93a9-ea6e0780db3e)
+
 
 tested in 1.09.1
 
